@@ -2,7 +2,7 @@ node-retricon
 =============
 
 create indenticon-like image hashes styled like [Github][ghid] and
-[Gravatar (retro)][gravatar] avatars
+[Gravatar (retro)][gravatar] avatars **WITHOUT USING NODE-CANVAS AND CAUSING YOUR INSTALL TO FAIL DUE TO MISSING `libCairo-dev`**
 
 ![avatar](https://raw.github.com/sehrgut/node-retricon/master/examples/images/01.png)
 ![avatar](https://raw.github.com/sehrgut/node-retricon/master/examples/images/02.png)
